@@ -1,1 +1,4 @@
+__pycache__
+env
+*.sqlite3
 app/env/lib/python3.10/site-packages/*
